@@ -32,6 +32,7 @@ git commit -m "[BOJ] Hello World / 브론즈5" -m "https://www.acmicpc.net/probl
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
   * [PGS] - 프로그래머스
+- gitignore를 수정하는 등의 변경사항은 따로 커밋하고, <br> 문제풀이 코드 파일 하나만 규칙에 맞게 커밋하세요!
 <br>
   
 ## ✅ Pull Request 규칙
