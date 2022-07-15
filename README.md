@@ -1,5 +1,7 @@
 # 1차 알고리즘 스터디
 
+📌 [**개념정리 블로그 공유**](https://docs.google.com/spreadsheets/d/1TpHRpNimZkpsLE6VvhrxvPiz-QQcBpH6KgXf9CPngCg/edit?usp=sharing)
+
 1️⃣ 자주 출제되는 자료구조/알고리즘에 대한 개념 스터디
 
 2️⃣ 문제 풀이 후 서로 코드 리뷰
