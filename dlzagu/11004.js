@@ -53,7 +53,7 @@ for (let i = 0; i < k - 1; i++) {
 
 console.log(list[0]);
 
-//
+// 퀵 정렬
 // function quickSort (array) {
 //     if (array.length < 2) {
 //             return array;
