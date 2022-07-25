@@ -25,4 +25,5 @@ for(let i=1; i<=len; i++){
             break;
     }
 }
+
 console.log(answer.join('\n'));
