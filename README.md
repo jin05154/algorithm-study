@@ -15,7 +15,7 @@
 2. 생성된 원격 저장소에 `이름` 혹은 `github ID`로 폴더를 생성한다.
 3. 생성된 폴더에 자신의 소스코드를 업로드한다.
 4. 이때 `commit 규칙`을 꼭 지킨다.
-5. 원본 저장소로 `Pull Request`를 한다. (매주 금요일에 merge 예정)
+5. 원본 저장소로 `Pull Request`를 한다. (확인 되는대로 merge 하겠습니다)
 6. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
 <br>
 
@@ -34,6 +34,8 @@ git commit -m "[BOJ] Hello World / 브론즈5" -m "https://www.acmicpc.net/probl
 - 플랫폼 작성법 통일: 
   * [BOJ] - 백준 
   * [PGS] - 프로그래머스
+  * [LTC] - LeetCode
+  * [ETC] - 그외
 - gitignore를 수정하는 등의 변경사항은 따로 커밋하고, <br> 문제풀이 코드 파일 하나만 규칙에 맞게 커밋하세요!
 <br>
   
